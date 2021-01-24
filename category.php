@@ -44,7 +44,7 @@
 	</h1>
 <?php endif; ?>
 
-<        <?php njengah_number_pagination(); ?>
+       <?php njengah_number_pagination(); ?>
 
 </div>
 
