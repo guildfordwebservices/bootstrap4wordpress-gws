@@ -32,6 +32,7 @@
 
 	<?php endwhile; ?>
 </div>
+	</div>
 
 <!-- Sidebar Column - Right Hand Side -->
 
